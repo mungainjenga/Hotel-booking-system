@@ -1,0 +1,31 @@
+.sidenav{
+    background-color: #0f215c;
+  }
+  .b{
+    margin: 5vw;
+    
+    
+  }
+  .footer-copyright{
+  line-height:1vh;
+
+
+  }
+  .a{
+    color: grey;
+    padding:1vw;
+    
+  }
+  .brand-logo{
+    font-family:'Tangerine', serif;
+  }
+  .parallax-container{
+    margin-bottom: 4vh;
+  }
+  span{
+  font-family: 'Sacramento',serif;
+  }
+  .card-image{
+    height:400px;
+    overflow: hidden;
+  }
